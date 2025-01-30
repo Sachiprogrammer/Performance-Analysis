@@ -30,7 +30,7 @@ The dataset includes session-based user activity data with the following key fea
 ## 📊 Insights from Visualizations
 
 ### **1️⃣ Users and Sessions Over Time**
-![Users and Sessions Over Time](images/users_sessions_trend.png)
+![Users and Sessions Over Time](images/image2.png)
 
 🔍 **Key Takeaways:**
 - **Cyclical spikes** suggest peak activity periods, possibly tied to user habits or scheduled promotions.
@@ -45,7 +45,7 @@ The dataset includes session-based user activity data with the following key fea
 ---
 
 ### **2️⃣ Feature Correlation Heatmap**
-![Feature Correlation Heatmap](images/correlation_heatmap.png)
+![Feature Correlation Heatmap](images/image3.png)
 
 🔍 **Key Takeaways:**
 - **Users and Sessions are almost perfectly correlated** (0.99), meaning user acquisition directly impacts total session volume.
@@ -60,7 +60,7 @@ The dataset includes session-based user activity data with the following key fea
 ---
 
 ### **3️⃣ Users and Sessions by Traffic Channel**
-![Users and Sessions by Channel](images/users_sessions_by_channel.png)
+![Users and Sessions by Channel](images/image4.png)
 
 🔍 **Key Takeaways:**
 - **Organic Social is the dominant traffic source**, driving the highest user engagement.
@@ -75,7 +75,7 @@ The dataset includes session-based user activity data with the following key fea
 ---
 
 ### **4️⃣ Engagement Rate by Traffic Source**
-![Engagement Rate by Channel](images/engagement_rate_by_channel.png)
+![Engagement Rate by Channel](images/image5.png)
 
 🔍 **Key Takeaways:**
 - **Organic Video leads engagement**, proving that video content is highly effective.
@@ -90,7 +90,7 @@ The dataset includes session-based user activity data with the following key fea
 ---
 
 ### **5️⃣ Events Per Session by Channel**
-![Events Per Session](images/events_per_session_by_channel.png)
+![Events Per Session](images/images1.png)
 
 🔍 **Key Takeaways:**
 - **Organic Video drives the most interactions per session**, reinforcing its role in engagement.
